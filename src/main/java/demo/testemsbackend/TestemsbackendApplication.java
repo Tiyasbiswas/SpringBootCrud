@@ -24,8 +24,6 @@ public class TestemsbackendApplication{
 //		Employee employee = new Employee();
 //		 employee.setFirstName("Tiyas");
 //		 employee.setLastName("Biswas");
-//		 employee.setDateOfBirth("20/04/1990");
-//		 employee.setDepartment("Development");
 //		 employeeRepository.save(employee);
 //	}
 }
